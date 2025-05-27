@@ -11,8 +11,10 @@ lethanhan01/lethanhan01 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethanhan01&layout=compact)
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=lethanhan01&theme=tokyonight)](https://git.io/streak-stats)
  
- ![Your github stats](https://github-readme-stats.vercel.app/api?username=lethanhan01&show_icons=true&theme=radical)
+ ![Your github stats](https://github-readme-stats.vercel.app/api?username=lethanhan01&show_icons=true&theme=tokyonight)
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=lethanhan01&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
