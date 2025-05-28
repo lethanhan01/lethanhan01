@@ -1,8 +1,8 @@
-# About me 
+# 💫 About me 
 ###### I'm a student of HUST
 - 👋 Hi, I’m @lethanhan01
 - 👀 I’m interested in video games, manga,...
-- 🌱 I’m currently learning Game Developer
+- 🌱 I’m currently learning Game Develop
 - 💞️ I’m looking to collaborate on ...hmm i don't know...
 - 📫 How to reach me An.LT235631@sis.hust.edu.vn
 - 😄 Pronouns: he/him
