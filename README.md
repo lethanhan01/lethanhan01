@@ -68,12 +68,12 @@ You can click the Preview link to take a look at your changes.
 
  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=lethanhan01&theme=tokyonight&combine_all_yearly_contributions=true)
 ### 📈 GitHub Activity Graph:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lethanhan01"></img>
-
 <!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
@@ -87,9 +87,11 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=lethanhan01" width="auto"></img>
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lethanhan01&show-other-skills=true" width="auto"></img>
+
 ### ✍️ Dev Quote:
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
