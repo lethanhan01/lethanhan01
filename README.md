@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 <!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
-![](./profile-3d-contrib\profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ### ✍️ Dev Quote
 
