@@ -76,19 +76,7 @@ You can click the Preview link to take a look at your changes.
 <!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
-<!--   profile-green-animate -->
-
-<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
-
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-
-
-<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
-
+![](./profile-3d-contrib\profile-night-green.svg)
 
 ### ✍️ Dev Quote
 
@@ -109,3 +97,5 @@ counting of visitors to this page in this section started from June 12, 2022
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>
 </p>
+
+![](assets/Bottom_down.svg)
