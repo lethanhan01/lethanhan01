@@ -11,7 +11,7 @@
 ###### I'm a Hedspi student of SoICT-HUST
 
 - 👀 I’m interested in video games, manga,...
-- 🌱 I’m currently learning Game Design and Development
+- 🌱 I’m currently learning Full-stack Web Development
 - 📫 How to reach me <An.LT235631@sis.hust.edu.vn>
 - 😄 Pronouns: he/him
 
