@@ -68,8 +68,6 @@ You can click the Preview link to take a look at your changes.
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lethanhan01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=lethanhan01&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ### 📈 GitHub Activity Graph
 <!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
