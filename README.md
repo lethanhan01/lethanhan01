@@ -85,13 +85,4 @@ counting of visitors to this page in this section started from September 2, 2025
 ![](https://count.getloli.com/get/@lethanhan01.github.readme)
 </br>
 
-<p align="center">
-    <a href="https://github.com/lethanhan01/lethanhan01"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/lethanhan01/lethanhan01/graphs/contributors"><img src="https://img.shields.io/github/contributors/lethanhan01/lethanhan01?color=blue"></a>
-    <a href="https://github.com/lethanhan01/lethanhan01/stargazers"><img src="https://img.shields.io/github/stars/lethanhan01/lethanhan01.svg?logo=github"></a>
-    <a href="https://github.com/lethanhan01/lethanhan01/network/members"><img src="https://img.shields.io/github/forks/lethanhan01/lethanhan01.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=lethanhan01.lethanhan01" alt="visitors"/>
-</p>
-
 ![](assets/Bottom_down.svg)
