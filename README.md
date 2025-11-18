@@ -10,8 +10,8 @@
 
 ###### I'm a Hedspi student of SoICT-HUST
 
+- 🌱 I’m currently learning **Full-stack Web Development**
 - 👀 I’m interested in video games, manga,...
-- 🌱 I’m currently learning Full-stack Web Development
 - 📫 How to reach me <An.LT235631@sis.hust.edu.vn>
 - 😄 Pronouns: he/him
 
@@ -58,17 +58,22 @@ lethanhan01/lethanhan01 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 # 📊 Github Stats
- ![My GitHub Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lethanhan01&layout=compact&theme=tokyonight)
+ <div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lethanhan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethanhan01&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=lethanhan01&theme=tokyonight)](https://git.io/streak-stats)
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lethanhan01&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
- ![Your github stats](https://github-readme-stats.vercel.app/api?username=lethanhan01&show_icons=true&theme=tokyonight)
-
+## 🏆 GitHub Trophies 
  [![trophy](https://github-profile-trophy.vercel.app/?username=lethanhan01&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+---
+## 📆 Github Contribution Graph
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lethanhan01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📈 GitHub Activity Graph
+---
+## 📈 GitHub Activity Graph
 <!-- dark snake -->
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
