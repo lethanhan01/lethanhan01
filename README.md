@@ -1,6 +1,6 @@
 ![](assets/Bottom_up.svg)
 ![](./src/header_.png)
-<h1 align="center">Hi 👋, I'm An</h1>
+<h1 align="center"> Hi 👋, I'm An</h1>
 
 <h3 align="center"> 
 
@@ -79,15 +79,17 @@ You can click the Preview link to take a look at your changes.
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
+<h3 align="center"> 
 
  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### Profile Views
-
-counting of visitors to this page in this section started from September 2, 2025
+## Profile Views
+<div align="center">
+ Counting of visitors to this page in this section started from September 2, 2025
 
 ![](https://count.getloli.com/get/@lethanhan01.github.readme)
 </br>
+</div>
 
 ![](assets/Bottom_down.svg)
