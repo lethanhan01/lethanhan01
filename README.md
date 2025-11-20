@@ -1,15 +1,17 @@
 <p align="center">
   <img src="assets/Chill of the Wild - Pixel Jeff.gif" alt="Chill of the Wild" />
 </p>
-<h3 align="center"> 
- 
+<!--
+<h3 align="center">  
 ![](assets/Bottom_up.svg)
 ![](./src/header_.png)
-<h1 align="center"> Hi 👋, I'm An</h1>
+-->
 
-<h3 align="center"> 
+<h1 align="center"> Hi there👋, I'm Le Thanh An</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Le+Thanh+An;Hedspi+Student+from+SoICT-HUST;Welcome+to+My+Github+Profile+!!!)](https://git.io/typing-svg)
+<h2 align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23B740&center=true&width=435&lines=Hedspi+Student+from+SoICT-HUST;Welcome+to+My+Github+Profile+!!!)](https://git.io/typing-svg)
 
 # 💫 About me
 
