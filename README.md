@@ -1,4 +1,6 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/029/462/049/original/pixel-jeff-waiting-ll-2.gif?1597639898)](https://github.com/lethanhan01)
+<p align="center">
+  <img src="assets/Chill of the Wild - Pixel Jeff.gif" alt="Chill of the Wild" />
+</p>
 <h3 align="center"> 
  
 ![](assets/Bottom_up.svg)
