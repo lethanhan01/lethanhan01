@@ -19,17 +19,18 @@
 ###### I'm a Hedspi student of SoICT-HUST
 
 - 🌱 I’m currently learning **Full-stack Web Development**
-- 👀 I’m interested in video games, manga,...
+- 👀 I’m interested in programming, video games, manga, anime, and more...
+- 🎯 Goal: I aim to solve real, practical problems in everyday life
 - 📫 How to reach me <An.LT235631@sis.hust.edu.vn>
 - 😄 Pronouns: he/him
 
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://x.com/an_lethanh" target="blank"> <img align="center" src="assets\social-icon\x.svg" alt="1" height="33" width="33" /></a>
-<a href="https://www.linkedin.com/in/thanh-an-le-6024861b9" target="blank"> <img align="center" src="assets\social-icon\linkedin.svg" alt="1" height="34" width="34" /></a>
-<a href="https://www.facebook.com/lethanh.an.568847" target="blank"> <img align="center" src="assets\social-icon\facebook.svg" alt="1" height="40" width="40" /></a>
-<a href="https://www.instagram.com/lethanhan01/" target="blank"> <img align="center" src="assets\social-icon\instagram.svg" alt="1" height="36" width="36" /></a>
+<a href="https://x.com/an_lethanh" target="blank"><img align="center" src="assets\social-icon\x.svg" alt="1" height="33" width="33" /></a>
+<a href="https://www.linkedin.com/in/thanh-an-le-6024861b9" target="blank"><img align="center" src="assets\social-icon\linkedin.svg" alt="1" height="34" width="34" /></a>
+<a href="https://www.facebook.com/lethanh.an.568847" target="blank"><img align="center" src="assets\social-icon\facebook.svg" alt="1" height="40" width="40" /></a>
+<a href="https://www.instagram.com/lethanhan01/" target="blank"><img align="center" src="assets\social-icon\instagram.svg" alt="1" height="36" width="36" /></a>
 <a href="https://line.me/ti/p/DzmgCqx5zF" target="blank"><img align="center" src="assets\social-icon\line.svg" alt="1" height="36" width="36" /></a>
 </p>
 
@@ -39,8 +40,8 @@
 <div align="left">
 
 ### 💻 Programming Languages
-<a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
@@ -53,13 +54,13 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
 
 ### 🗄️ Databases
 
@@ -98,10 +99,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 GitHub Trophies 
  [![Github trophy](https://github-profile-trophy.vercel.app/?username=lethanhan01&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
----
+
 ## 📆 Github Contribution Graph
  [![Github Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=lethanhan01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
+
 ## 📈 GitHub Activity Graph
 <div align="center">
 
