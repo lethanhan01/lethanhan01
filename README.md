@@ -7,13 +7,14 @@
 ![](./src/header_.png)
 -->
 
-<h1 align="center"> Hi there👋, I'm Le Thanh An</h1>
+<div align="center">
+  
+# Hi there👋, I'm An
 
-<h2 align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23B740&center=true&width=435&lines=Hedspi+Student+from+SoICT-HUST;Welcome+to+My+Github+Profile+!!!" alt="Typing SVG" /></a>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23B740&center=true&width=435&lines=Hedspi+Student+from+SoICT-HUST;Welcome+to+My+Github+Profile+!!!)](https://git.io/typing-svg)
-
-# 💫 About me
+## 💫 About me
 
 ###### I'm a Hedspi student of SoICT-HUST
 
@@ -22,17 +23,19 @@
 - 📫 How to reach me <An.LT235631@sis.hust.edu.vn>
 - 😄 Pronouns: he/him
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 <p align="left">
-<a href="https://x.com/an_lethanh" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/thanh-an-le-6024861b9" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="30" width="40" /></a>
-<a href="https://www.facebook.com/lethanh.an.568847" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="30" width="40" /></a>
-<a href="https://www.instagram.com/lethanhan01/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1" height="30" width="40" /></a>
-<a href="https://discord.gg/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1" height="30" width="40" /></a>
+<a href="https://x.com/an_lethanh" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="1" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/thanh-an-le-6024861b9" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="1" height="40" width="40" /></a>
+<a href="https://www.facebook.com/lethanh.an.568847" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1" height="40" width="40" /></a>
+<a href="https://www.instagram.com/lethanhan01/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1" height="40" width="40" /></a>
+<a href="https://discord.gg/1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1" height="40" width="40" /></a>
 </p>
 
-# 💻 Languages and Tools
+---
+
+## 💻 Languages and Tools
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
@@ -64,7 +67,7 @@
 lethanhan01/lethanhan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 📊 Github Stats
+## 📊 Github Stats
  <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lethanhan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethanhan01&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -81,10 +84,14 @@ You can click the Preview link to take a look at your changes.
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lethanhan01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 ## 📈 GitHub Activity Graph
-<!-- dark snake -->
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
 
-![](./profile-3d-contrib/profile-night-green.svg)
+  <!-- dark snake -->
+  ![dark grid snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+
+  ![Github Profile 3d](./profile-3d-contrib/profile-night-green.svg)
+
+</div>
 
 ## ✍️ Dev Quote
 <h3 align="center"> 
@@ -96,7 +103,6 @@ You can click the Preview link to take a look at your changes.
  Counting of visitors to this page in this section started from September 2, 2025
 
 ![](https://count.getloli.com/get/@lethanhan01.github.readme)
-</br>
 </div>
 
 ![](assets/Bottom_down.svg)
