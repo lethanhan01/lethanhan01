@@ -37,7 +37,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<div align="left">
+<div align="center">
 
 ### 💻 Programming Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
@@ -88,12 +88,12 @@ lethanhan01/lethanhan01 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ## 📊 Github Stats
- <div align="left">
+ <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lethanhan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lethanhan01&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lethanhan01&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
