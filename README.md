@@ -135,7 +135,7 @@ You can click the Preview link to take a look at your changes.
 <h2>✍️ Dev Quote</h2>
 <div align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" rel="noopener noreferrer">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" />
     
   </a>
 </div>
