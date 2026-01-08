@@ -125,7 +125,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
  Counting of visitors to this page in this section started from September 2, 2025
 
-![](https://count.getloli.com/get/@lethanhan01.github.readme)
+![](https://count.getloli.com/get/@lethanhan01.github.readme?theme=ai-1)
 </div>
 
 ![](assets/Bottom_down.svg)
