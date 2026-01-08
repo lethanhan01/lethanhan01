@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lethanhan01&theme=tokyonight" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-seven.vercel.app?user=lethanhan01&theme=tokyonight&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 ## 🏆 GitHub Trophies 
