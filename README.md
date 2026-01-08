@@ -120,7 +120,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
   <!-- dark snake -->
-  ![dark grid snake](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+  ![dark grid snake](https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/github-contribution-grid-snake-dark.svg)
   ![Github Profile 3d](./profile-3d-contrib/profile-night-green.svg)
 </div>
 
