@@ -8,23 +8,26 @@
 -->
 
 <div align="center">
-
-# Hi there👋, I'm An
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23B740&center=true&width=435&lines=Hedspi+Student+from+SoICT-HUST;Welcome+to+My+Github+Profile+!!!" alt="Typing SVG" /></a>
+  <h1>Hi there👋, I'm An</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23B740&center=true&width=435&lines=Hedspi+Student+from+SoICT-HUST;Welcome+to+My+Github+Profile+!!!" alt="Typing SVG" />
+  </a>
 </div>
 
-## 💫 About me
+<h2>💫 About me</h2>
 
-###### I'm a Hedspi student of SoICT-HUST
+<h6>I'm a Hedspi student of SoICT-HUST</h6>
 
-- 🌱 I’m currently learning **Full-stack Web Development**
-- 👀 I’m interested in programming, video games, manga, anime, and more...
-- 🎯 Goal: I aim to solve real, practical problems in everyday life
-- 📫 How to reach me <An.LT235631@sis.hust.edu.vn>
-- 😄 Pronouns: he/him
+<ul>
+  <li>🌱 I’m currently learning <strong>Full-stack Web Development</strong></li>
+  <li>👀 I’m interested in programming, video games, manga, anime, and more...</li>
+  <li>🎯 Goal: I aim to solve real, practical problems in everyday life</li>
+  <li>📫 How to reach me <a href="mailto:An.LT235631@sis.hust.edu.vn">An.LT235631@sis.hust.edu.vn</a></li>
+  <li>😄 Pronouns: he/him</li>
+  
+</ul>
 
-## 🌐 Connect with me
+<h2>🌐 Connect with me</h2>
 
 <p align="left">
   <a href="https://x.com/an_lethanh" target="_blank" rel="noopener noreferrer">
@@ -45,11 +48,11 @@
 </p>
 
 
-## 🛠️ Tech Stack & Skills
+<h2>🛠️ Tech Stack & Skills</h2>
 
 <div align="left">
 
-### 💻 Programming Languages
+<h3>💻 Programming Languages</h3>
 <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" /></a>
@@ -60,7 +63,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40" /></a>
 
-### 🔧 Frameworks & Libraries
+<h3>🔧 Frameworks & Libraries</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40" /></a>
@@ -72,12 +75,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40" /></a>
 
-### 🗄️ Databases
+<h3>🗄️ Databases</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" /></a>
 
-### 🐳 DevOps & Tools
+<h3>🐳 DevOps & Tools</h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" /></a>
 <a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /></a>
@@ -85,19 +88,19 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" /></a>
 
-### 🛡️ Others
+<h3>🛡️ Others</h3>
 
 <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
 
 </div>
 
----
+<hr />
 
 <!---
 lethanhan01/lethanhan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 📊 Github Stats
+<h2>📊 Github Stats</h2>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats-vixb.vercel.app/api?username=lethanhan01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -110,30 +113,35 @@ You can click the Preview link to take a look at your changes.
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-seven.vercel.app?user=lethanhan01&theme=tokyonight&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
-## 🏆 GitHub Trophies 
- [![Github trophy](https://github-profile-trophy.vercel.app/?username=lethanhan01&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<h2>🏆 GitHub Trophies</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-profile-trophy.vercel.app/?username=lethanhan01&theme=tokyonight" alt="Github trophy" />
+  
+</a>
 
-## 📆 Github Contribution Graph
- [![Github Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=lethanhan01&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2>📆 Github Contribution Graph</h2>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lethanhan01&theme=tokyo-night" alt="Github Contribution graph" />
+  
+</a>
 
-## 📈 GitHub Activity Graph
+<h2>📈 GitHub Activity Graph</h2>
 <div align="center">
-
   <!-- dark snake -->
-  ![dark grid snake](https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/github-contribution-grid-snake-dark.svg)
-  ![Github Profile 3d](./profile-3d-contrib/profile-night-green.svg)
+  <img src="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/github-contribution-grid-snake-dark.svg" alt="dark grid snake" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Github Profile 3d" />
 </div>
 
-## ✍️ Dev Quote
-<h3 align="center"> 
-
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-## Profile Views
+<h2>✍️ Dev Quote</h2>
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank" rel="noopener noreferrer">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+    
+  </a>
+</div>
+<h2>👁️Profile Views</h2>
 <div align="center">
  Counting of visitors to this page in this section started from September 2, 2025
-
-![](https://count.getloli.com/get/@lethanhan01.github.readme?theme=ai-1)
+  <img src="https://count.getloli.com/get/@lethanhan01.github.readme?theme=ai-1" alt="profile views" />
 </div>
-
-![](assets/Bottom_down.svg)
+<img src="assets/Bottom_down.svg" alt="" />
