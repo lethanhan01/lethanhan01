@@ -30,21 +30,11 @@
 <h2>🌐 Connect with me</h2>
 
 <p align="left">
-  <a href="https://x.com/an_lethanh" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="assets/social-icon/x.svg" alt="1" height="33" width="33" />
-  </a>
-  <a href="https://www.linkedin.com/in/thanh-an-le-6024861b9" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="assets/social-icon/linkedin.svg" alt="1" height="34" width="34" />
-  </a>
-  <a href="https://www.facebook.com/lethanh.an.568847" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="assets/social-icon/facebook.svg" alt="1" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/lethanhan01/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="assets/social-icon/instagram.svg" alt="1" height="36" width="36" />
-  </a>
-  <a href="https://line.me/ti/p/DzmgCqx5zF" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="assets/social-icon/line.svg" alt="1" height="36" width="36" />
-  </a>
+  <a href="https://x.com/an_lethanh" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/social-icon/x.svg" alt="1" height="33" width="33"/></a>
+  <a href="https://www.linkedin.com/in/thanh-an-le-6024861b9" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/social-icon/linkedin.svg" alt="1" height="34" width="34"/></a>
+  <a href="https://www.facebook.com/lethanh.an.568847" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/social-icon/facebook.svg" alt="1" height="40" width="40"/></a>
+  <a href="https://www.instagram.com/lethanhan01/" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/social-icon/instagram.svg" alt="1" height="36" width="36"/></a>
+  <a href="https://line.me/ti/p/DzmgCqx5zF" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/social-icon/line.svg" alt="1" height="36" width="36"/></a>
 </p>
 
 
