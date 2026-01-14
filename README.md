@@ -104,9 +104,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <h2>🏆 GitHub Trophies</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-profile-trophy-hgetdn36y-lethanhan01.vercel.app/?username=lethanhan01&theme=tokyonight" alt="Github trophy" />
-</a>
+<div align = "center">
+    <img src = "https://github-trophies.vercel.app/?username=lethanhan01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt = "GitHub Trophies" />
+</div>
 
 <h2>📆 Github Contribution Graph</h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
