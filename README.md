@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>🌐 Connect with me</h2>
 <div align="center">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139"></a>
   <a href="https://www.linkedin.com/in/thanh-an-le-6024861b9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="https://x.com/an_lethanh" target="_blank">
@@ -40,8 +41,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.facebook.com/lethanh.an.568847" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"/></a>
   <a href="nguyenhuybn253@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/></a>
   <a href="https://dev.to/lethanhan01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"/></a>
   <a href="https://www.instagram.com/lethanhan01/" target="_blank">
@@ -50,8 +50,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"/>
   <a href="https://portfolio-website-lethanhan.vercel.app/">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139">
-  </a>
 </div>
 
 <section>
