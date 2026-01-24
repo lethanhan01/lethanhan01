@@ -3,6 +3,10 @@
 
 name: generate animation
 
+concurrency:
+  group: output-branch
+  cancel-in-progress: true
+
 on:
   # run automatically every 12 hours
   schedule:
@@ -43,6 +47,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   pacman:
+    needs: generate
     permissions:
       contents: write # to be able to push to the output branch
     runs-on: ubuntu-latest
