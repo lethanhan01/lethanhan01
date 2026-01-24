@@ -141,13 +141,13 @@ You can click the Preview link to take a look at your changes.
 
 <h2>📈 GitHub Activity Graph</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output-pacman/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output-pacman/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output-pacman/pacman-contribution-graph.svg">
 </picture>
 <div align="center">
   <!-- dark snake -->
-  <img src="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/github-contribution-grid-snake-dark.svg" alt="dark grid snake" />
+  <img src="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output-snake/github-contribution-grid-snake-dark.svg" alt="dark grid snake" />
   <img src="assets\3d-contribute\profile-night-green.svg" alt="Github Profile 3d" />
 </div>
 
