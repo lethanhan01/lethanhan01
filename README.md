@@ -33,7 +33,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2>🌐 Connect with me</h2>
 <div align="center">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139"></a>
+  <a href="https://portfolio-website-lethanhan.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139"></a></a>
   <a href="https://www.linkedin.com/in/thanh-an-le-6024861b9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
   <a href="https://x.com/an_lethanh" target="_blank">
@@ -139,17 +140,16 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <h2>📈 GitHub Activity Graph</h2>
-<div align="center">
-  <!-- dark snake -->
-  <img src="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/github-contribution-grid-snake-dark.svg" alt="dark grid snake" />
-  <img src="assets\3d-contribute\profile-night-green.svg" alt="Github Profile 3d" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/pacman-contribution-graph.svg">
 </picture>
+<div align="center">
+  <!-- dark snake -->
+  <img src="https://raw.githubusercontent.com/lethanhan01/lethanhan01/output/github-contribution-grid-snake-dark.svg" alt="dark grid snake" />
+  <img src="assets\3d-contribute\profile-night-green.svg" alt="Github Profile 3d" />
+</div>
 
 <h2>✍️ Dev Quote</h2>
 <div align="center">
