@@ -138,6 +138,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lethanhan01&theme=tokyo-night" alt="Github Contribution graph" />
   
 </a>
+![My GitHub Game](game.gif)
 
 <h2>📈 GitHub Activity Graph</h2>
 <picture>
